@@ -1,0 +1,14 @@
+.nav_title a {
+    text-decoration: none;
+    color: #FF6800;
+}
+
+.nav_links a {
+    text-decoration: none;
+    color: white;
+    padding: 0 1rem;
+    }
+
+.nav_links a:hover {
+    color: #FF6800;
+}
